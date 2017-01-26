@@ -1,5 +1,7 @@
 # hubot-terminal-calendar
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/BrianSipple/hubot-terminal-calendar.svg)](https://greenkeeper.io/)
+
 A hubot script that does the things
 
 See [`src/terminal-calendar.js`](src/terminal-calendar.js) for full documentation.
